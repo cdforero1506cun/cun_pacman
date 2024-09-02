@@ -38,6 +38,9 @@
   },
   "name":"cun_pacman",
   "resources":[
+    {"id":{"name":"Font1","path":"fonts/Font1/Font1.yy",},},
+    {"id":{"name":"Note1","path":"notes/Note1/Note1.yy",},},
+    {"id":{"name":"obj_enemigo","path":"objects/obj_enemigo/obj_enemigo.yy",},},
     {"id":{"name":"obj_pared","path":"objects/obj_pared/obj_pared.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
