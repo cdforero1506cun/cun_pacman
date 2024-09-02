@@ -38,6 +38,8 @@
   },
   "name":"cun_pacman",
   "resources":[
+    {"id":{"name":"obj_pared","path":"objects/obj_pared/obj_pared.yy",},},
+    {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"spr_bashful","path":"sprites/spr_bashful/spr_bashful.yy",},},
     {"id":{"name":"spr_pacman_down","path":"sprites/spr_pacman_down/spr_pacman_down.yy",},},
@@ -45,6 +47,7 @@
     {"id":{"name":"spr_pacman_muerte","path":"sprites/spr_pacman_muerte/spr_pacman_muerte.yy",},},
     {"id":{"name":"spr_pacman_right","path":"sprites/spr_pacman_right/spr_pacman_right.yy",},},
     {"id":{"name":"spr_pacman_up","path":"sprites/spr_pacman_up/spr_pacman_up.yy",},},
+    {"id":{"name":"spr_pared","path":"sprites/spr_pared/spr_pared.yy",},},
     {"id":{"name":"spr_pokey","path":"sprites/spr_pokey/spr_pokey.yy",},},
     {"id":{"name":"spr_punto_bono","path":"sprites/spr_punto_bono/spr_punto_bono.yy",},},
     {"id":{"name":"spr_punto_cereza","path":"sprites/spr_punto_cereza/spr_punto_cereza.yy",},},
